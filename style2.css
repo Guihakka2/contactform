@@ -1,0 +1,13 @@
+
+
+form {
+    float:left;
+    margin-right: 15px;
+    }
+    .button1 {
+    color:white;
+    border:1px solid lightgray; padding: 4px 10px; background-color: #bfbfbf; border-radius: 5px; border-bottom: solid 2px gray;
+    }
+    .button2 {
+    border:1px solid lightgray; padding: 4px 10px; color:white; background-color:darkorange; border-radius: 5px; border-bottom: solid 2px #E08600;
+    }
